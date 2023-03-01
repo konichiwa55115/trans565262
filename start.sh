@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/konichiwa55115/trans45161565 /LazyDeveloper
+git clone https://github.com/konichiwa55115/trans565262 /LazyDeveloper
 cd /LazyDeveloper
 pip3 install -r requirements.txt
 cd src
