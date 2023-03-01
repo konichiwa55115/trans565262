@@ -1,4 +1,3 @@
-sed -i 's/\r//g' start.sh
 apt-get install ffmpeg
 echo "Cloning Repo...."
 git clone https://github.com/konichiwa55115/trans565262 /LazyDeveloper
